@@ -6,6 +6,9 @@ import com.studentTest.bean.User;
 
 import java.util.ArrayList;
 
+/**
+ * sbyh commit
+ */
 public interface FileDao {
     ArrayList<User> getAllStudent();
 
